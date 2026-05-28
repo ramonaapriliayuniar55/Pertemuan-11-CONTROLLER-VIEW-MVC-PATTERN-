@@ -1,17 +1,14 @@
-# Tugas Pertemuan 11 - Dashboard, Blade Component, dan Search Filter Laravel
+# Tugas Pertemuan 11 - CONTROLLER & VIEW (MVC PATTERN)
 
 **Nama:** Ramona Aprilia Yuniar  
 **NIM:** 60324039  
 **Prodi:** Informatika  
 **Semester:** 4  
-**Repository:** [https://github.com/USERNAME/NAMA-REPOSITORY.git]
+**Repository:** [https://github.com/ramonaapriliayuniar55/Pertemuan-11-CONTROLLER-VIEW-MVC-PATTERN-.git]
 
 ---
 
-# Tugas 1 - Membuat Halaman Dashboard
-
-## Tujuan
-Membuat halaman dashboard yang menampilkan ringkasan statistik perpustakaan.
+# Tugas 1 : Membuat halaman dashboard yang menampilkan ringkasan statistik perpustakaan.
 
 ---
 
@@ -40,14 +37,11 @@ Membuat halaman dashboard yang menampilkan ringkasan statistik perpustakaan.
 ## Screenshot
 
 ### 1. Halaman Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ---
 
-# Tugas 2 - Blade Component Buku Card
-
-## Tujuan
-Membuat Blade Component reusable untuk card buku.
+# Tugas 2 : Membuat Blade Component reusable untuk card buku.
 
 ---
 
@@ -81,14 +75,11 @@ Membuat Blade Component reusable untuk card buku.
 ## Screenshot
 
 ### 1. Hasil Blade Component Buku Card
-![Blade Component](screenshots/bukucard.png)
+![Blade Component](screenshots/bukucard.jpeg)
 
 ---
 
-# Tugas 3 - Search & Filter Buku Advanced
-
-## Tujuan
-Menambahkan fitur pencarian dan filter advanced pada halaman buku.
+# Tugas 3 : Search & Filter Buku Advanced ,Menambahkan fitur pencarian dan filter advanced pada halaman buku.
 
 ---
 
